@@ -3,7 +3,7 @@
 Toutes vos cartes de fidélité au même endroit.
 
 <p align="center">
-  <img src="YOUR_LOG" alt="Logo Carti" width="180"/>
+  <img src="https://github.com/massiakdaderm-bot/CARTI/blob/main/Screenshot_20261122_181758_Zoom.jpg" alt="Logo Carti" width="180"/>
 </p><p align="center">
   **Bien plus qu'une carte de fidélité. Une nouvelle façon de découvrir, de partager et de gagner des récompenses.**
 </p><p align="center">
