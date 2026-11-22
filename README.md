@@ -130,7 +130,7 @@ Carti adopte une identité visuelle moderne, futuriste et inspirée de l'univers
 🖤 Interface| Dark Mode
 💎 Style| Moderne et futuriste
 
----
+---  <img src="" alt="Logo Carti" width="180"/>
 
 🛠️ Développement
 
